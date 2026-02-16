@@ -1,5 +1,5 @@
 # web-tasarim-uygalama
-🚀 Sınıf Not Defteri (Ultra Pro)
+🚀 Sınıf Not Defteri 
 A modern, real-time class notebook application built with Vanilla JavaScript and Firebase. This project features a sleek "Dark Mode" UI, category management, drag-and-drop organization, and live updates.
 
 (Note: Replace this link with a real screenshot of your app once you upload it)
